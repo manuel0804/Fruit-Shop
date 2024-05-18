@@ -1,6 +1,7 @@
 ### Gui-Application Fruit-Shop
 This was my first Gui-App created with Java Swing. 
-It's an online shop where you can buy fruits. 
+It's an online shop where you can buy fruits. You can interact by
+using buttons, textfields and other input pssibilities. 
 It contains the following functions:
 
 1. Login
